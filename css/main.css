@@ -1,0 +1,13 @@
+:root {
+    --dark-green-background: #233000;
+    --white-background: #ffff;
+    --light-green:#EBF0E4;
+    --grey-accent:#233000;
+    --text-color:#4D4D4D;
+}
+body{
+    font-family: "Lato";
+    font-style: normal;
+    font-size: 24px;
+    letter-spacing: 0.48px;
+}
